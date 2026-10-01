@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pyjwt
+reportlab
+apscheduler
+httpx
+pytest
+email-validator
